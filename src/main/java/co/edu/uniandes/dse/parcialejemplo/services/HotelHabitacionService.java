@@ -14,7 +14,7 @@ import co.edu.uniandes.dse.parcialejemplo.entities.HabitacionEntity;
 import co.edu.uniandes.dse.parcialejemplo.entities.HotelEntity;
 import co.edu.uniandes.dse.parcialejemplo.exceptions.EntityNotFoundException;
 import co.edu.uniandes.dse.parcialejemplo.exceptions.ErrorMessage;
-import co.edu.uniandes.dse.parcialejemplo.exceptions.IllegalOperationException;
+
 import co.edu.uniandes.dse.parcialejemplo.repositories.HabitacionRepository;
 import co.edu.uniandes.dse.parcialejemplo.repositories.HotelRepository;
 import lombok.extern.slf4j.Slf4j;
